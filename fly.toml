@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for guides on 2025-10-15T20:54:44Z
+# fly.toml app configuration file generated for guides-d-a9vg on 2025-10-21T20:34:20Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'guides'
+app = 'guides-d-a9vg'
 primary_region = 'ams'
 
 [build]
